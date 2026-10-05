@@ -1,0 +1,9 @@
+{
+  "vault": "~/Desktop/<name>-brain",
+  "agents_md": "~/Desktop/<workspace>/AGENTS.md",
+  "index_name": "vault-index.md",
+  "ausschluss": ["06-logs/", "10-archiv/", ".obsidian/"],
+  "hinweise": {
+    "kunden": "Kundenwissen liegt im jeweiligen Kunden-Brain, hier nur der Stand"
+  }
+}
